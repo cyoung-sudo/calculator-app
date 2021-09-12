@@ -1,13 +1,13 @@
 # Calculator App
 A basic calculator app.
 
-## Preview:
+## Preview
 ![Preview](/images/preview.png)
 
-## Website Link:
+## Website Link
 [Github Page Link](https://cyoung-sudo.github.io/calculator-app/)
 
-## Programming Languages:
+## Programming Languages
 * HTML
 * CSS
 * Javascript
