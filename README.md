@@ -11,3 +11,6 @@ A basic calculator app.
 * HTML
 * CSS
 * Javascript
+
+## Support
+- [x] Mobile supported
