@@ -14,3 +14,4 @@ A basic calculator app.
 
 ## Support
 - [x] Mobile supported
+- [x] Chrome Lighthouse perfect score
